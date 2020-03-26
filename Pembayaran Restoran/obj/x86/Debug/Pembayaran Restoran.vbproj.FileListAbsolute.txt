@@ -1,0 +1,19 @@
+E:\KULIAH\Visual.NET\UAS\Pembayaran Restoran\Pembayaran Restoran\obj\x86\Debug\Pembayaran Restoran.exe
+E:\KULIAH\Visual.NET\UAS\Pembayaran Restoran\Pembayaran Restoran\obj\x86\Debug\Pembayaran Restoran.xml
+E:\KULIAH\Visual.NET\UAS\Pembayaran Restoran\Pembayaran Restoran\obj\x86\Debug\Pembayaran Restoran.pdb
+E:\KULIAH\Visual.NET\UAS\Pembayaran Restoran\Pembayaran Restoran\bin\Debug\Pembayaran Restoran.exe
+E:\KULIAH\Visual.NET\UAS\Pembayaran Restoran\Pembayaran Restoran\bin\Debug\Pembayaran Restoran.pdb
+E:\KULIAH\Visual.NET\UAS\Pembayaran Restoran\Pembayaran Restoran\bin\Debug\Pembayaran Restoran.xml
+E:\KULIAH\Visual.NET\UAS\Pembayaran Restoran\Pembayaran Restoran\obj\x86\Debug\Pembayaran Restoran.vbprojResolveAssemblyReference.cache
+E:\KULIAH\Visual.NET\UAS\Pembayaran Restoran\Pembayaran Restoran\obj\x86\Debug\Pembayaran_Restoran.Form1.resources
+E:\KULIAH\Visual.NET\UAS\Pembayaran Restoran\Pembayaran Restoran\obj\x86\Debug\Pembayaran_Restoran.main_menu.resources
+E:\KULIAH\Visual.NET\UAS\Pembayaran Restoran\Pembayaran Restoran\obj\x86\Debug\Pembayaran_Restoran.Resources.resources
+E:\KULIAH\Visual.NET\UAS\Pembayaran Restoran\Pembayaran Restoran\obj\x86\Debug\Pembayaran_Restoran.nota.resources
+E:\KULIAH\Visual.NET\UAS\Pembayaran Restoran\Pembayaran Restoran\obj\x86\Debug\Pembayaran_Restoran.pesanan.resources
+E:\KULIAH\Visual.NET\UAS\Pembayaran Restoran\Pembayaran Restoran\obj\x86\Debug\Pembayaran Restoran.vbproj.GenerateResource.Cache
+E:\KULIAH\Visual.NET\UAS\Pembayaran Restoran\Pembayaran Restoran\obj\x86\Debug\RdlCompile.cache
+E:\KULIAH\Visual.NET\UAS\Pembayaran Restoran\Pembayaran Restoran\obj\x86\Debug\RdlCompile.compiled
+E:\KULIAH\Visual.NET\UAS\Pembayaran Restoran\Pembayaran Restoran\obj\x86\Debug\Pembayaran_Restoran.Login.resources
+E:\KULIAH\Visual.NET\UAS\Pembayaran Restoran\Pembayaran Restoran\bin\Debug\Pembayaran Restoran.exe.config
+E:\KULIAH\Visual.NET\UAS\Pembayaran Restoran\Pembayaran Restoran\obj\x86\Debug\Pembayaran_Restoran.Laporan.resources
+E:\KULIAH\Visual.NET\UAS\Pembayaran Restoran\Pembayaran Restoran\obj\x86\Debug\Pembayaran_Restoran.Form_MENU.resources
